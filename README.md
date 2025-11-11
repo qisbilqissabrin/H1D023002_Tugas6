@@ -1,4 +1,4 @@
-# NIM_Tugas6 - Passing Data Antar Halaman di Flutter
+# H1D023002_Tugas6 - Passing Data Antar Halaman di Flutter
 ## Proses Passing Data dari FormData ke TampilData
 
 Data yang diinput dari `form_data.dart` (Nama, NIM, Tahun Lahir) diproses, dan Umur dihitung. Data ini kemudian dikirim ke `tampil_data.dart` menggunakan mekanisme **Constructor**.
